@@ -1,0 +1,17 @@
+{
+	"name": "SQL script 2",
+	"properties": {
+		"content": {
+			"query": "\nSELECT TOP (100) [OrderID]\n,[OrderDate]\n,[OrderDescription]\n FROM [dbo].[Orders]",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"databaseName": "supriyasqldpool99",
+				"poolName": "supriyasqldpool99"
+			},
+			"resultLimit": 5000
+		},
+		"type": "SqlQuery"
+	}
+}
