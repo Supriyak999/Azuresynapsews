@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--supriyasynapsews99-supriyagen299",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/5c984598-757b-4ff2-9822-bbbb44fc90fb/resourceGroups/Day4RG/providers/Microsoft.Storage/storageAccounts/supriyagen299",
+		"groupId": "dfs",
+		"fqdns": [
+			"supriyagen299.dfs.core.windows.net"
+		]
+	}
+}
